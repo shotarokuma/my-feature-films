@@ -1,0 +1,31 @@
+body{
+   background-color: aqua;
+}
+
+
+#form{
+  background-color: aliceblue;
+  width: 100%;
+}
+
+#featured-film{
+  color: blue;
+  background-color: aliceblue;
+}
+
+#all-films{
+  background-color: aliceblue;
+  list-style: none;
+}
+
+li{
+  float: left;
+  background-color: aquamarine;
+  color: darkblue;
+  margin: 10;
+}
+
+
+
+
+
